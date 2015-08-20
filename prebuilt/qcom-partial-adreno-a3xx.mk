@@ -21,8 +21,11 @@ PRODUCT_PACKAGES += \
 	libC2D2 \
 	libCB \
 	libOpenCL \
+	libOpenVG.so \
 	libRSDriver_adreno \
 	libadreno_utils \
+	libc2d2_z180.so \
+	libc2d30.so \
 	libc2d30-a3xx \
 	libc2d30-a4xx \
 	libgsl \
@@ -30,4 +33,5 @@ PRODUCT_PACKAGES += \
 	librs_adreno \
 	librs_adreno_sha1 \
 	libsc-a2xx \
-	libsc-a3xx
+	libsc-a3xx \
+	libscale.so
