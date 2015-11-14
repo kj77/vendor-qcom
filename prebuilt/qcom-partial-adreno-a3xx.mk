@@ -23,6 +23,7 @@ PRODUCT_PACKAGES += \
 	libOpenCL \
 	libRSDriver_adreno \
 	libadreno_utils \
+	libc2d30.so \
 	libc2d30-a3xx \
 	libc2d30-a4xx \
 	libgsl \
